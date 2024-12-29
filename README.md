@@ -18,12 +18,4 @@ PureVista is a sleek, eco-friendly water bottle landing page designed to showcas
    ```bash
    git clone https://github.com/frontdev17/PureVista.git
 
-
-
-
-#### **Update the README File**
-1. Save the changes to `README.md`.
-2. Stage and commit:
-   ```bash
-   git add README.md
-   git commit -m "Enhance README with project details and live preview link"
+This project is open-source and available under the MIT License.
